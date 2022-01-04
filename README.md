@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello and Welcome! 👋 
+
+## I'm Jose, a software engineer.
+
 
 <!--
 **mauilema/mauilema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
