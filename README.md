@@ -15,11 +15,11 @@
 <a href="https://graceshopper-4-amigos.herokuapp.com/"><img width="300" height="200" alt="Fullstack-Spirits-Logo" src="https://user-images.githubusercontent.com/75354391/152092298-f5421686-bd54-4478-ab43-2b02e1cdb3b9.png"></a>
  </div>
  
- ## GITHUB
+ ## Github
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mauilema)](https://github.com/mauilema)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauilema&layout=compact)](https://github.com/mauilema)
 
-## Tech Stack 
+## My Tech Stack  
 <img align="left" img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
