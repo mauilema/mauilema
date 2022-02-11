@@ -1,3 +1,8 @@
+**<p align="center">Watch our YouTube demo video:</p>**
+
+<h1 align="center"><a href="https://youtu.be/GZ4RHsHUgW8"><img width="400" height="200" alt="City-Diary-Thumbnail" src="https://user-images.githubusercontent.com/75354391/153485037-a4b1064a-221d-4c34-bf32-2256c9d48c31.png" target="_blank"></a></h1>
+
+
 ### :wave: Hello! I'm Jose, a software engineer. :man_technologist:
 - recent Fullstack Academy graduate
 - extensive experience in customer service 
