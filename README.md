@@ -16,7 +16,7 @@
 ## Most recent projects:
 <div>
 <span>
-<a href="https://youtu.be/GZ4RHsHUgW8"><img width="400" height="200" alt="City-Diary-Thumbnail" src="https://user-images.githubusercontent.com/75354391/152089970-860934fe-7acb-4159-9461-27d9cfb87e75.png"></a>
+<a href="https://github.com/HCJM/City-Diary"><img width="400" height="200" alt="City-Diary-Thumbnail" src="https://user-images.githubusercontent.com/75354391/152089970-860934fe-7acb-4159-9461-27d9cfb87e75.png"></a>
 </span>
 &nbsp;
 &nbsp;
