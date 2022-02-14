@@ -15,10 +15,15 @@
 
 ## Most recent projects:
 <div>
-<a href="https://youtu.be/GZ4RHsHUgW8"><img width="375" height="200" alt="City-Diary-Thumbnail" src="https://user-images.githubusercontent.com/75354391/152089970-860934fe-7acb-4159-9461-27d9cfb87e75.png"></a>
- </br>
-<a href="https://graceshopper-4-amigos.herokuapp.com/"><img width="375" height="200" alt="Fullstack-Spirits-Logo" src="https://user-images.githubusercontent.com/75354391/152092298-f5421686-bd54-4478-ab43-2b02e1cdb3b9.png"></a>
+<span>
+<a href="https://youtu.be/GZ4RHsHUgW8"><img width="400" height="200" alt="City-Diary-Thumbnail" src="https://user-images.githubusercontent.com/75354391/152089970-860934fe-7acb-4159-9461-27d9cfb87e75.png"></a>
+</span>
+&nbsp;
+&nbsp;
+<span>
+<a href="https://graceshopper-4-amigos.herokuapp.com/"><img width="350" height="200" alt="Fullstack-Spirits-Logo" src="https://user-images.githubusercontent.com/75354391/152092298-f5421686-bd54-4478-ab43-2b02e1cdb3b9.png"></a>
  </div>
+</span>
  
  ## Github
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mauilema)](https://github.com/mauilema)
