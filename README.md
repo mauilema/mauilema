@@ -1,5 +1,5 @@
 ### :wave: Hello! I'm Jose, a software engineer. :man_technologist:
-- recent Fullstack Academy graduate
+- Fullstack Academy graduate
 - extensive experience in customer service 
 - enjoy soccer and online multiplayer video games
 - a fan of team competitions like the Olympics
