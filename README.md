@@ -1,8 +1,8 @@
 ### :wave: Hello! I'm Jose, a software engineer. :man_technologist:
 - Fullstack Academy graduate
-- extensive experience in customer service 
-- enjoy soccer and online multiplayer video games
-- a fan of team competitions like the Olympics
+- Extensive experience in customer service 
+- Enjoy international football and online multiplayer video games
+- A fan of team competitions like the Olympics
 
 ## 🔭 I’m currently working on:
 - My personal profile site
