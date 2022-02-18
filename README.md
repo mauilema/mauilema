@@ -1,5 +1,5 @@
 ### :wave: Hello! I'm Jose, a software engineer. :man_technologist:
-- Fullstack Academy graduate
+- Fullstack Software Engineer - PERN Stack
 - Extensive experience in customer service 
 - Enjoy international football and online multiplayer video games
 - A fan of team competitions like the Olympics
