@@ -5,7 +5,7 @@
 - A fan of team competitions like the Olympics
 
 ## 🔭 I’m currently working on:
-- My personal profile site
+- My personal portfolio site
 - Algorithms and Data Structures
 - Optimizing previous projects
 
